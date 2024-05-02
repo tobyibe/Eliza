@@ -1,0 +1,210 @@
+Hello there, My name is Eliza and I will be your therapist for the day.
+>>
+Thank you for speaking to me today. I hoped it helped.
+>>
+what is your name
+My name is Eliza and I am your therapist for today
+>>
+i had too much
+And why did you have too much*?
+That doesn't sound good.
+>>
+i spent too much
+And why did you spend so much*?
+>>
+my husband is
+Why is he*?
+>>
+my wife is
+Are you sure she is*?
+Is she often*?
+>>
+my son
+Is he always*?
+Are you sure he is*?
+>>
+my daughter
+Has she always*?
+Are you sure she is*?
+>>
+my mum
+Has she always*?
+Are you sure she is*?
+>>
+my dad
+Is he always*?
+Are you sure he is*?
+>>
+my boss is
+Are they often*?
+Are you sure your boss is*?
+>>
+thank you 
+You are welcome!
+>>
+i cannot
+Why can you not*?
+>>
+he cannot
+Why can he not*?
+>>
+she cannot
+Why can she not*?
+>>
+they cannot
+Why can they not*?
+>>
+i can
+Why can you*?
+>>
+he can
+Why can he*?
+>>
+she can
+Why can she*?
+>>
+they can
+Why can they*?
+>>
+i did not
+Why didn't you*?
+And why was that?
+Why not?
+>>
+i do not
+Why do you not*?
+Have you ever*?
+Why is that?
+>>
+he does not
+Why doesn't he*?
+Did he used to*?
+>>
+she does not
+Why doesn't she*?
+Did she used to*?
+>>
+how are you
+I am fine, what about you?
+>>
+i think
+Do you often think*?
+>>
+he thinks
+Does he often think*?
+>>
+she thinks
+Does she often think*?
+>>
+they think
+Do they often think*?
+>>
+i am good
+That's good to hear!
+>>
+i am
+You say you are*?
+Why are you*?
+Are you always*?
+Have you always been*?
+>>
+she is
+Has she always been*?
+What makes her*?
+>>
+he is
+Has he always been*?
+>>
+they are
+Have they always been*?
+>>
+i said
+Did anything else happen when you said*?
+What made you say*?
+>>
+he said
+Has he ever said* before?
+Are you sure he meant it?
+And what did you say in response?
+>>
+she said
+Is she usually someone who says*?
+What did you think when she said*?
+>>
+they said
+Ok. What did you do when they said*?
+Are you sure they meant it?
+>>
+i feel
+What makes you feel*?
+Do you often feel*?
+And why do you feel that way?
+>>
+he feels
+What makes him feel*?
+Does he often feel*?
+And how does that make you feel?
+Do you feel the same things as him?
+>>
+she feels
+Does she often feel*?
+What makes her feel*?
+Are these feelings that you share aswell?
+Has she always felt*?
+>>
+they feel
+Do they often feel*?
+Are you sure they feel*?
+>>
+i have 
+Have you always had*?
+>>
+she has
+Are you sure she has*?
+Has she always had*?
+>>
+he has
+Are you positive that he has*?
+Has he always had*?
+>>
+they have
+Have they always had*?
+What makes them have*?
+>>
+hate
+This situation is clearly highly emotional.
+Hate is a very strong word.
+>>
+hello
+Hi, how are you?
+>>
+hi
+Hello, how are you?
+>>
+yes
+And how does that make you feel?
+>>
+no
+Why not?
+And why is that?
+>>
+good
+I'm glad to hear.
+>>
+bad
+That is a shame. Shall we talk about something else?
+I am sorry to hear that
+>>
+Thanks for your help today
+goodbye
+i am off
+bye
+see you later
+see you
+end
+quit
+>>
+I don't understand sorry.
+Please explain
+Go on...
+>>
