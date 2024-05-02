@@ -1,0 +1,7 @@
+i,you
+you,I
+are,am
+am,are
+me,you
+my,your
+your,my
