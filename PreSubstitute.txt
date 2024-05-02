@@ -1,0 +1,15 @@
+i'm,i am
+i'd,i would
+he's,he is
+he'd,he would
+she's,she is
+she'd,she would
+they're,they are
+what's,what is
+don't,do not
+didn't,did not
+amn't,am not
+didn't,did not
+that's,that is
+isn't,is not
+can't,cannot
